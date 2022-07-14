@@ -17,16 +17,16 @@ Specs:
 
 What works:
 - macOS, latest version at the moment.
+- Internal audio from speakers.
+- Power Management.
 - No kernel panics.
 - USB 2.0 *
 - Sleep is partially working.
-- Light, clean and stable instalation
+- Light, clean and stable instalation.
 
 Issues:
 - USB 3.0 is not working (XHC is not being recognized by macOS).
 - Sleep has given issues 2 times, USB devices get disconnected and fan starts spinning.
 - During installation no USB 2.0/3.0 is being read except for the flash drive. (Solved connecting the Flash drive, mouse and keyboard to a hub) Issue gets fixed after installation.
-- No audio
-- No Power Management SSDT (SSDT-PM.aml)
 - OpenCore GUI not included atm.
 
