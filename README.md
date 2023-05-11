@@ -29,7 +29,7 @@ Specs:
 Download the latest release, then extract the file and open the EFI folder.
 If you want to learn more about it please read the [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide).
 
-Inside EFI > OC you look at the config.plist file. Use [ProperTree](https://github.com/corpnewt/ProperTree.git) to open and edit the file. 
+Inside EFI > OC look at the config.plist file. Use [ProperTree](https://github.com/corpnewt/ProperTree.git) to open and edit the file. 
 
 Generate the SMBIOS with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS). 
 
