@@ -1193,7 +1193,7 @@
 		<key>Debug</key>
 		<dict>
 			<key>AppleDebug</key>
-			<true/>
+			<false/>
 			<key>ApplePanic</key>
 			<true/>
 			<key>DisableWatchDog</key>
@@ -1207,7 +1207,7 @@
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
-			<integer>67</integer>
+			<integer>3</integer>
 		</dict>
 		<key>Entries</key>
 		<array>
@@ -1386,7 +1386,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>D255366004NG36DFB</string>
+			<string>Board Serial Fill</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1398,11 +1398,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac14,4</string>
+			<string>Type Fill</string>
 			<key>SystemSerialNumber</key>
-			<string>D25QCWYMFY0T</string>
+			<string>Serial Fill</string>
 			<key>SystemUUID</key>
-			<string>EA6A4C91-3913-4AB2-9F1F-D6DF715691F3</string>
+			<string>SmUUID Fill</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
