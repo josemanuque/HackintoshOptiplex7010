@@ -49,13 +49,13 @@ Save the config.plist and attempt to boot.
 ## Sleep 
 When the computer is in sleep 2 things can happen:
 
-- During sleep, the Mac wakes up randomly with no response (Kernel Panic). 
-- When user wakes the Mac up, at some point it panics with no response.
+- The Mac wakes up randomly with no response (Kernel Panic). 
+- When user wakes the Mac up, at some point it doesn't respond (Kernel Panic).
 
 Possible causes:
-- Using an external SSD plugged ia USB 3.0 port.
+- Using an external SSD plugged in a USB 3.0 port.
 - Power Management not working properly with S3 state.
-- Some weir quirk with USB port mapping.
+- Some weird quirk with USB port mapping.
 
 Workaround:
 - Disable sleep in System Properties > Energy Saver.
